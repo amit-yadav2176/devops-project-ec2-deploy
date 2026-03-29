@@ -107,9 +107,6 @@ git push origin main
 This project showcases a real-world DevOps workflow including:
 
 - Automation
-- scalability
-- continuous deployment
-- monitoring
 - Scalability
 - Continuous Deployment
 - Monitoring
